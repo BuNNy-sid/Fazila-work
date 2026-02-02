@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Identity Card</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-    <div class="card">
+<div class="card">
 
         <h1 class="title">Identity Card</h1>
 
         <img src="profile.jpg" alt="Profile Image" class="profile-img">
 
-        <h2 class="name">Ayesha Shakoor</h2>
+        <h2 class="name">Fazila Siddiqui</h2>
 
         <p class="description">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -28,10 +19,7 @@
         </div>
 
         <p class="footer">
-            Designed & Developed by Ayesha Shakoor
+            Designed & Developed by Fazila siddiqui 
         </p>
 
     </div>
-
-</body>
-</html>
